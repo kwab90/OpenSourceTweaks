@@ -1,0 +1,9 @@
+Package: com.kwab.haptify
+Name: Haptify
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add Haptic Feedback to anything!
+Maintainer: Caleb Gibson(KWaB)
+Author: Caleb Gibson(KWaB)
+Section: Tweaks

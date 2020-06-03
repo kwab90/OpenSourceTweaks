@@ -1,0 +1,9 @@
+Package: com.kwab.showbattery
+Name: showbattery
+Depends: mobilesubstrate
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: KWaB
+Author: KWaB
+Section: Tweaks
